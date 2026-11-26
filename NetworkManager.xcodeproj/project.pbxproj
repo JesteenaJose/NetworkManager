@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FAB4F97A30B8028E00D1C606 /* NetworkManagerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4F97930B8028E00D1C606 /* NetworkManagerApp.swift */; };
-		FAB4F97C30B8028E00D1C606 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4F97B30B8028E00D1C606 /* ContentView.swift */; };
+		FAB4F97C30B8028E00D1C606 /* NetworkManagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4F97B30B8028E00D1C606 /* NetworkManagerView.swift */; };
 		FAB4F97E30B8029300D1C606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAB4F97D30B8029300D1C606 /* Assets.xcassets */; };
 		FAB4F98130B8029300D1C606 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAB4F98030B8029300D1C606 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		FAB4F97630B8028E00D1C606 /* NetworkManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetworkManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB4F97930B8028E00D1C606 /* NetworkManagerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManagerApp.swift; sourceTree = "<group>"; };
-		FAB4F97B30B8028E00D1C606 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FAB4F97B30B8028E00D1C606 /* NetworkManagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManagerView.swift; sourceTree = "<group>"; };
 		FAB4F97D30B8029300D1C606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAB4F98030B8029300D1C606 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				FAB4F97930B8028E00D1C606 /* NetworkManagerApp.swift */,
-				FAB4F97B30B8028E00D1C606 /* ContentView.swift */,
+				FAB4F97B30B8028E00D1C606 /* NetworkManagerView.swift */,
 				FAB4F97D30B8029300D1C606 /* Assets.xcassets */,
 				FAB4F97F30B8029300D1C606 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAB4F97C30B8028E00D1C606 /* ContentView.swift in Sources */,
+				FAB4F97C30B8028E00D1C606 /* NetworkManagerView.swift in Sources */,
 				FAB4F97A30B8028E00D1C606 /* NetworkManagerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
